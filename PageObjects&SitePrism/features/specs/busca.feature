@@ -12,7 +12,8 @@ Funcionalidade: Busca
     Cenário: Buscar por uma das Categorias existentes
         Quando selecionar uma das categoria existentes
         Então deverá retornar ao usuário os cursos dessa categoria
-
+    
+    @Esquema_busca
     Esquema do Cenário: Buscar por uma das Categorias existentes
         Quando selecionar uma categoria "<categoria>"
         Então deverá retornar ao usuário os cursos dessa categoria
