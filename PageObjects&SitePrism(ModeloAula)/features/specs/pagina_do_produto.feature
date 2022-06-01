@@ -8,9 +8,7 @@ Funcionalidade: Página do Produto
     PARA ter uma melhor experiência de compra
 
 Contexto: Estar na página de um produto
-    Dado que esteja na home
-    Quando realizar uma busca por um produto existente
-    E acessar a página do produto
+    Dado que esteja na página de um produto existente
 
 @change_color_pdp
 Cenário: Trocar a cor do produto na PDP
