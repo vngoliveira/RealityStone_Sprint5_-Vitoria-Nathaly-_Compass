@@ -13,6 +13,7 @@ module Pages
             wait_until_loader_visible
             wait_until_loader_invisible
             header.btn_open_search.click
+            header.close_search.click
         end
     end
 end
