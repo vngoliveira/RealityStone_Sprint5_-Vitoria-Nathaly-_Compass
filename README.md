@@ -45,8 +45,8 @@ bundle exec cucumber -p default -t@<nome_da_tag_do_cénario_que_deseja_testar>
 bundle exec cucumber -p default -t@search_for_product
 ```
 #### Documentações
-Capybara: https://github.com/teamcapybara/capybara
-Cucumber: https://github.com/cucumber/cucumber-ruby
+Capybara: https://github.com/teamcapybara/capybara <br />
+Cucumber: https://github.com/cucumber/cucumber-ruby <br />
 SitePrism: https://github.com/site-prism/site_prism
 # Autora
 Vitória Nathaly Gomes de Oliveira
