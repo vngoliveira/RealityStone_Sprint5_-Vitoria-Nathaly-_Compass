@@ -19,7 +19,7 @@ Cucumber; <br />
 CMDER; <br />
 Git
 #### Instalação
-Para instalar o Ruby na sua máquina, acesse http://rubyinstaller.org/downloads/
+Para instalar o Ruby na sua máquina, acesse http://rubyinstaller.org/downloads/ <br />
 Para instalar o CMDER, acesse https://cmder.net/
 ```bash
 # Para Windows
@@ -28,13 +28,13 @@ gem install win32console
 gem install bundler
 gem install ruby-debug-ide
 ```
-Para instalar o VS Code, acesse https://code.visualstudio.com/download
+Para instalar o VS Code, acesse https://code.visualstudio.com/download <br />
 Para instalar o Git na sua máquina, acesse https://git-scm.com/downloads
 ##### Extensões no VS Code
-Ruby
-VSCode Ruby
-Ruby Solargraph
-Cucumber (Gherkins) Full Support
+Ruby <br />
+VSCode Ruby <br />
+Ruby Solargraph <br />
+Cucumber (Gherkins) Full Support <br />
 Snippets and Syntax Highlight for Gherkin
 ```bash
 # Para clonagem deste repositótio
